@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas! Atualmente curso Si
             <img src="https://skillicons.dev/icons?i=postgres" alt="postgres"/>
         </picture>
         <picture>
-            <img src="https://skillicons.dev/icons?i=docker" alt="docker"/>
+            <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
         </picture>
         <picture>
             <img src="https://skillicons.dev/icons?i=git" alt="git"/>
@@ -32,7 +32,30 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas! Atualmente curso Si
     </div>
     <div>
         <picture>
+            <img src="https://skillicons.dev/icons?i=figma" alt="figma"/>
+        </picture>
+        <picture>
+            <img src="https://skillicons.dev/icons?i=spring" alt="spring"/>
+        </picture>
+        <picture>
+            <img src="https://skillicons.dev/icons?i=java" alt="java"/>
+        </picture>
+        <picture>
+            <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate"/>
+        </picture>
+        <picture>
+        <img src="https://skillicons.dev/icons?i=php" alt="php"/>
+        </picture>
+        <picture>
+            <img src="https://skillicons.dev/icons?i=github" alt="github"/>
+        </picture>
+    </div>
+    <div>
+        <picture>
             <img src="https://skillicons.dev/icons?i=javascript" alt="javascript"/>
+        </picture>
+        <picture>
+            <img src="https://skillicons.dev/icons?i=typescript" alt="typescript"/>
         </picture>
         <picture>
             <img src="https://skillicons.dev/icons?i=html" alt="html"/>
@@ -41,13 +64,10 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas! Atualmente curso Si
             <img src="https://skillicons.dev/icons?i=css" alt="css"/>
         </picture>
         <picture>
-            <img src="https://skillicons.dev/icons?i=php" alt="php"/>
-        </picture>
-        <picture>
         <img src="https://skillicons.dev/icons?i=c" alt="c"/>
         </picture>
         <picture>
-            <img src="https://skillicons.dev/icons?i=github" alt="github"/>
+            <img src="https://skillicons.dev/icons?i=docker" alt="docker"/>
         </picture>
     </div>
 </div>
