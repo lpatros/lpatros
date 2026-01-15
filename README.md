@@ -3,10 +3,6 @@
     <p><strong>Estudante de Sistemas de Informação | Apaixonado por tecnologia</strong></p>
 </div>
 
-## Sobre mim
-
-Sou apaixonado por tecnologia e desenvolvimento de sistemas! Atualmente curso Sistemas de Informação e estou sempre buscando aprender algo novo. Gosto de entender como as coisas funcionam e compartilhar conhecimento.
-
 ## Linguagens e Ferramentas
 
 <div align="center">
