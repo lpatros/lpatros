@@ -1,10 +1,10 @@
-[PT-BR](README-PTBR.md)
+[EN](README.md)
 
 <div align="center">
-    <p><strong>Information Systems Student | Tech Enthusiast</strong></p>
+    <p><strong>Estudante de Sistemas de Informação | Apaixonado por tecnologia</strong></p>
 </div>
 
-## Skills
+## Linguagens e Ferramentas
 
 <div align="center">
     <div>
@@ -69,7 +69,7 @@
     </div>
 </div>
 
-## Contact
+## Contato
 
 <a href="mailto:contato.leopatrocinio@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
