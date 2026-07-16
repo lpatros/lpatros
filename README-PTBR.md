@@ -7,70 +7,13 @@
 ## Linguagens e Ferramentas
 
 <div align="center">
-    <div>
-        <picture>
-        <img src="https://skillicons.dev/icons?i=react" alt="react"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=python" alt="python"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=postgres" alt="postgres"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=git" alt="git"/>
-        </picture>
-    </div>
-    <div>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=figma" alt="figma"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=spring" alt="spring"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=java" alt="java"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate"/>
-        </picture>
-        <picture>
-        <img src="https://skillicons.dev/icons?i=php" alt="php"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=github" alt="github"/>
-        </picture>
-    </div>
-    <div>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=javascript" alt="javascript"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=typescript" alt="typescript"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=html" alt="html"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=css" alt="css"/>
-        </picture>
-        <picture>
-        <img src="https://skillicons.dev/icons?i=c" alt="c"/>
-        </picture>
-        <picture>
-            <img src="https://skillicons.dev/icons?i=docker" alt="docker"/>
-        </picture>
-    </div>
+    <picture>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,python,postgres,mysql,firebase,figma,spring,java,hibernate,tailwind,github,javascript,typescript,html,css,git,docker&perline=6"/>
+    </picture>
 </div>
 
 ## Contato
 
-<a href="mailto:contato.leopatrocinio@gmail.com" target="_blank">
+<a href="mailto:contato@lpatros.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
