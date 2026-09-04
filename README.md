@@ -1,16 +1,23 @@
-[PT-BR](README-PTBR.md)
-
 <div align="center">
     <p><strong>Information Systems Student | Tech Enthusiast</strong></p>
+
+---
+
+**English** | [Português](README-PTBR.md)
+
 </div>
 
 ## Skills
+
+<details>
+<summary>View my skills</summary>
 
 <div align="center">
     <picture>
         <img src="https://skillicons.dev/icons?i=react,nodejs,python,postgres,mysql,firebase,figma,spring,java,hibernate,tailwind,github,javascript,typescript,html,css,git,docker&perline=6"/>
     </picture>
 </div>
+</details>
 
 ## Contact
 

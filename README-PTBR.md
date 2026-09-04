@@ -1,16 +1,22 @@
-[EN](README.md)
-
 <div align="center">
     <p><strong>Estudante de Sistemas de Informação | Apaixonado por tecnologia</strong></p>
+
+---
+
+[English](README.md) | **Português**
+
 </div>
 
 ## Linguagens e Ferramentas
 
+<details>
+<summary>Ver minhas habilidades</summary>
 <div align="center">
     <picture>
         <img src="https://skillicons.dev/icons?i=react,nodejs,python,postgres,mysql,firebase,figma,spring,java,hibernate,tailwind,github,javascript,typescript,html,css,git,docker&perline=6"/>
     </picture>
 </div>
+</details>
 
 ## Contato
 
